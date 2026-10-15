@@ -1,0 +1,6 @@
+{
+  "name": "Eratosthenes Kalburu & Asal Sayı Oyunu (LGS 8. Sınıf)",
+  "description": "8. sınıf LGS öğrencileri için Eratosthenes Kalburu simülasyonu, 1-100 arası asal sayılar ızgarası ve 60 saniyelik zamana karşı hız oyunu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
